@@ -1,4 +1,3 @@
-# Human_Action_Recognition
 # Human-Action-Recognition 🚴‍♀️
 Recognition of human activity is important in human-to-human interaction and interpersonal relationships. It is tough to extract important features in images and videos since it contains information about a person's identity, personality, and psychological condition.
 One of the key or major objectives of research in the scientific fields of computer vision and machine learning is the human ability to identify another person's activity.
